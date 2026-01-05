@@ -35,10 +35,15 @@ It delivers real-time news, article previews, live weather & time, and PDF expor
 🚀 Run Locally
 
 ➡️ Clone repository
+
     git clone https://github.com/simeon-suchir/News-Scoops-App.git
+    
 ➡️ Install dependencies
+
     pip install requests pillow pandas fpdf tkhtmlview tkinterweb
+    
 ➡️ Run application
+
     python main.py
 
 🔮 Future Enhancements
